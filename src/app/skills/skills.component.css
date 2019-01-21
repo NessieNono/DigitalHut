@@ -1,0 +1,13 @@
+.section { 
+	margin: 0px!important;
+	background-color: #f3f3f3;
+	width: 100%;
+}
+
+.skills {
+	padding: 2rem 6rem;
+}
+
+.emphasis {
+	text-align: center;
+}
